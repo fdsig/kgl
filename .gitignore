@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# data
+digit-recognizer 
+*.zip
 # C extensions
 *.so
 
